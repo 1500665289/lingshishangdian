@@ -12,7 +12,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "10"/>
+				<Item name = "Item_LingStone" count = "100"/>
 			</CostItems>
 		</BeMade>
 		<FuelMultiplier>4</FuelMultiplier>
@@ -77,8 +77,8 @@
 		<BeMade>
 			<WorkToMake>80</WorkToMake>
 			<CostItems>
-				<Item name = "Item_Wood" count = "10"/>
-				<Item name = "Item_LingStone" count = "10"/>
+				<Item name = "Item_Wood" count = "100"/>
+				<Item name = "Item_LingStone" count = "100"/>
 			</CostItems>
 		</BeMade> 
 		<FuelMultiplier>4</FuelMultiplier>
@@ -156,8 +156,8 @@
 		<BeMade>
 			<WorkToMake>100</WorkToMake>
 			<CostItems>
-				<Item name = "Item_Wood" count = "10"/>
-				<Item name = "Item_LingStone" count = "300"/>
+				<Item name = "Item_Wood" count = "100"/>
+				<Item name = "Item_LingStone" count = "3000"/>
 			</CostItems>
 		</BeMade> 
 		<NotFengshuiItem>0</NotFengshuiItem>
@@ -240,8 +240,8 @@
 		<BeMade>
 			<WorkToMake>100</WorkToMake>
 			<CostItems>
-				<Item name = "Item_Wood" count = "10"/>
-				<Item name = "Item_LingStone" count = "50"/>
+				<Item name = "Item_Wood" count = "100"/>
+				<Item name = "Item_LingStone" count = "500"/>
 			</CostItems>
 		</BeMade>
 		<NotFengshuiItem>0</NotFengshuiItem>

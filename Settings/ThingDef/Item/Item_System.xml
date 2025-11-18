@@ -75,7 +75,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_Water" count = "1"/>
+				<Item name = "Item_LingCrystal" count = "1"/>
 			</CostItems>
 		</BeMade> 
 			<FabaoSuffix>匣</FabaoSuffix>			

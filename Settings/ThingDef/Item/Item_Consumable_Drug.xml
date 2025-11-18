@@ -21,8 +21,8 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "1"/>
-				<Item name = "Item_Water" count = "100"/>
+				<Item name = "Item_LingStone" count = "10"/>
+				<Item name = "Item_Water" count = "1000"/>
 			</CostItems>
 		</BeMade>
 		<BeMaterial>
@@ -71,7 +71,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "10"/>
+				<Item name = "Item_LingStone" count = "100"/>
 			</CostItems>
 		</BeMade> 
 	</Item>
@@ -126,7 +126,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "15"/>
+				<Item name = "Item_LingCrystal" count = "150"/>
 			</CostItems>
 		</BeMade> 
 		<Elixir>
@@ -198,7 +198,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "15"/>
+				<Item name = "Item_LingCrystal" count = "150"/>
 			</CostItems>
 		</BeMade> 
 		<Elixir>
@@ -269,7 +269,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "15"/>
+				<Item name = "Item_LingCrystal" count = "150"/>
 			</CostItems>
 		</BeMade> 
 		<Elixir>
@@ -340,7 +340,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "15"/>
+				<Item name = "Item_LingCrystal" count = "150"/>
 			</CostItems>
 		</BeMade> 
 		<Elixir>
@@ -420,7 +420,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "15"/>
+				<Item name = "Item_LingCrystal" count = "150"/>
 			</CostItems>
 		</BeMade> 
 		<Elixir>
@@ -511,7 +511,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "500"/>
+				<Item name = "Item_LingStone" count = "5000"/>
 			</CostItems>
 		</BeMade> 
 	</Item>
@@ -583,7 +583,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "500"/>
+				<Item name = "Item_LingStone" count = "5000"/>
 			</CostItems>
 		</BeMade> 
 	</Item>
@@ -666,7 +666,7 @@
 		<BeMade>
 			<WorkToMake>5</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "10"/>
+				<Item name = "Item_LingStone" count = "100"/>
 			</CostItems>
 		</BeMade> 
 	</Item>
@@ -749,7 +749,7 @@
 		<BeMade>
 			<WorkToMake>5</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "10"/>
+				<Item name = "Item_LingStone" count = "100"/>
 			</CostItems>
 		</BeMade>
 	</Item>
@@ -821,7 +821,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "1500"/>
+				<Item name = "Item_LingStone" count = "15000"/>
 			</CostItems>
 		</BeMade>
 	</Item>
@@ -908,7 +908,7 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "100"/>
+				<Item name = "Item_LingStone" count = "1000"/>
 			</CostItems>
 		</BeMade>
 	</Item>
@@ -975,7 +975,7 @@
 		<BeMade>
 			<WorkToMake>5</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "5"/>
+				<Item name = "Item_LingStone" count = "50"/>
 			</CostItems>
 		</BeMade>
 		<Rot>
@@ -1016,7 +1016,7 @@
 		<BeMade>
 			<WorkToMake>5</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "5"/>
+				<Item name = "Item_LingStone" count = "50"/>
 			</CostItems>
 		</BeMade>
 		<Food>

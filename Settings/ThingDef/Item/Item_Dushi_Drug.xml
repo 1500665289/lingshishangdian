@@ -19,8 +19,8 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "16"/>
-				<Item name = "Item_Water" count = "10"/>
+				<Item name = "Item_LingCrystal" count = "160"/>
+				<Item name = "Item_Water" count = "100"/>
 			</CostItems>
 		</BeMade> 
 		
@@ -70,8 +70,8 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "50"/>
-				<Item name = "Item_Water" count = "10"/>
+				<Item name = "Item_LingCrystal" count = "500"/>
+				<Item name = "Item_Water" count = "100"/>
 			</CostItems>
 		</BeMade> 
 		
@@ -121,8 +121,8 @@
 		<BeMade>
 			<WorkToMake>10</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingCrystal" count = "300"/>
-				<Item name = "Item_Water" count = "10"/>
+				<Item name = "Item_LingCrystal" count = "3000"/>
+				<Item name = "Item_Water" count = "100"/>
 			</CostItems>
 		</BeMade> 
 		
@@ -175,8 +175,8 @@
 		<BeMade>
 			<WorkToMake>800</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "10"/>
-				<Item name = "Item_Water" count = "100"/>
+				<Item name = "Item_LingStone" count = "100"/>
+				<Item name = "Item_Water" count = "1000"/>
 			</CostItems>
 		</BeMade> 
 		<BeMaterial>

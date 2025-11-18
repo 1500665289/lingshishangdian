@@ -41,8 +41,8 @@
 		<BeMade>
 			<WorkToMake>50</WorkToMake>
 			<CostItems>
-				<Item name = "Item_LingStone" count = "50"/>
-				<Item name = "Item_Water" count = "50"/>
+				<Item name = "Item_LingStone" count = "500"/>
+				<Item name = "Item_Water" count = "500"/>
 			</CostItems>
 		</BeMade>
 		<BeMaterial>
